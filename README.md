@@ -66,11 +66,6 @@ To build a professional and interactive dashboard from raw data to:
 - Data storytelling for better decision-making  
 - Enhanced confidence in end-to-end BI reporting
 
----
-
-## 🎥 Demo Video
-
-> *(Add link here if available – Google Drive, Loom, or YouTube)*
 
 ---
 
